@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pilimendiburu&label=Profile%20views&color=0e75b6&style=flat" alt="pilimendiburu" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Large Language Models,Python**
+- 🌱 I’m currently learning **Machine Learning, Large Language Models and Python**
 
 - 📫 How to reach me **pilimendiburu@gmail.com**
 
