@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pilar Menciburu</h1>
+<h1 align="center">Hi 👋, I'm Pilar Mendiburu</h1>
 <h3 align="center">A passionate Biomedical Engineering student from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pilimendiburu&label=Profile%20views&color=0e75b6&style=flat" alt="pilimendiburu" /> </p>
